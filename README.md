@@ -33,4 +33,7 @@ Before you start, make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/your-username/weather-app.git
-
+2. Navigate to the project directory.
+  ```bash
+   cd weather-app
+ 
