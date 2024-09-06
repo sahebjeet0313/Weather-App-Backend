@@ -31,9 +31,16 @@ Before you start, make sure you have the following installed on your system:
 
 1. Clone this repository or download the ZIP file.
 
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
+   ```git clone https://github.com/your-username/weather-app.git```
 2. Navigate to the project directory.
-  ```bash
-    cd weather-appt
+  ```cd weather-app```
+3. Install the required dependencies using npm.
+   ```npm install```
+4. Get an API key from OpenWeatherMap by creating an account.
+
+5. In the app.js file, replace YOUR_API_KEY with your actual OpenWeatherMap API key.
+
+6. Run the server.
+   ```node app.js```
+7. Open your browser and go to http://localhost:3000. You should see the weather app running.
 
